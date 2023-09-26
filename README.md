@@ -1,5 +1,3 @@
-# Excel
-code cell grafting
 Sub MrgCll()
 Dim Cll As Range, Temp As String
 On Error Resume Next
